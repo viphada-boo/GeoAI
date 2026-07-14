@@ -56,3 +56,6 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# Raster files too large for GitHub (>100MB limit)
+Example-20260714T031623Z-1-001/Example/Topo50K50361.tif
